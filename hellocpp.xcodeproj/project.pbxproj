@@ -26,8 +26,11 @@
 		13264BD12DFC672100DE3298 /* Exceptions for "hellocpp" folder in "hellocpp" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
+				1_abstract_class.cpp,
+				2_implicit.cpp,
 				copy_constructor.cpp,
 				main.cpp,
+				virtual_constructor.cpp,
 			);
 			target = 13264BC42DF71A3D00DE3298 /* hellocpp */;
 		};
