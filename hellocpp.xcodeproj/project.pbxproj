@@ -28,6 +28,7 @@
 			membershipExceptions = (
 				1_abstract_class.cpp,
 				2_implicit.cpp,
+				3_explicit_keyword.cpp,
 				copy_constructor.cpp,
 				main.cpp,
 				virtual_constructor.cpp,
